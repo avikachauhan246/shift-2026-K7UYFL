@@ -305,7 +305,12 @@ If you build upon or reference this methodology in academic, urban planning, or 
   year={2026},
   howpublished={SHIFT Sustainable e-Micromobility Hackathon, IIT (BHU) Varanasi},
   url={https://github.com/avikachauhan246/shift-2026-K7UYFL}
-}
 ```
+
+### Project Contributors
+* **Avika Chauhan** ([@avikachauhan246](https://github.com/avikachauhan246))
+* **UrbanFluX Core Contributor** ([@userface1015-lang](https://github.com/userface1015-lang))
+
+---
 
 *Crafted with commitment to sustainable urban mobility and open science by **Team UrbanFluX**.*
